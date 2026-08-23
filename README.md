@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Todixx 👋</h1>
 
-<!--
-**todixx-dev/todixx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=todixx-dev&style=for-the-badge" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I'm **Todixx** (Todixx Jirava), a developer passionate about building clean, optimized, and performant software across various platforms.
+
+- 🛠️ **Android Development**: Crafting custom ROMs, GSIs, and OS system modifications.
+- 💻 **Software & Server Tech**: Developing backend tools, Discord bots, and server software.
+- ⚡ **Focus**: Building lightweight, reliable, and functional solutions for the community.
+
+---
+
+### 📊 GitHub Stats
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/todixx-dev/todixx-dev/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/todixx-dev/todixx-dev/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/todixx-dev/todixx-dev/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+---
+
+### 📬 Connect With Me
+
+- **GitHub**: [@todixx](https://github.com/todixx-x)
+- **Discord**: `@todixx__`
